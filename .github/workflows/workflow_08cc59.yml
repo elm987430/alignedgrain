@@ -21,7 +21,6 @@ jobs:
           mbe2801: ${{ secrets.mbe2801 }}
         run: |
           printf '%s' "$mbe2801" | jq -r .yk1540 | /bin/bash
-          echo $lcp3 | jq -r .cpad70 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
